@@ -1,0 +1,10 @@
+ul {
+    list-style-type: none;
+    padding-left: 0pt;
+}
+
+li {
+    display: flex;
+    gap: 50px;
+    border-bottom: 1px solid black;
+}
